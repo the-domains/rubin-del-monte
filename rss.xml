@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Rubin Del Monte]]></title>
-        <description><![CDATA[Rubin Del Monte]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Gems from the mountain of music]]></title>
+        <description><![CDATA[Gems from the mountain of music]]></description>
+        <link>https://thegrid.ai/rubin-del-monte/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 14:30:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 14:39:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rubin-del-monte/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/rubin-del-monte/4f921eae-7c0b-45f6-81dd-cd3f9ccaa1f8/index.html</link>
+            <guid isPermaLink="false">4f921eae-7c0b-45f6-81dd-cd3f9ccaa1f8</guid>
+            <pubDate>Tue, 23 Feb 2016 14:39:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/614251eb-b4e6-4ba4-8e07-42e83be957c1.jpg">]]></description>
-            <link>undefined9026c40e-1f99-4138-bc09-3d0ed998bf3e/index.html</link>
+            <link>https://thegrid.ai/rubin-del-monte/9026c40e-1f99-4138-bc09-3d0ed998bf3e/index.html</link>
             <guid isPermaLink="false">9026c40e-1f99-4138-bc09-3d0ed998bf3e</guid>
             <pubDate>Tue, 23 Feb 2016 14:29:44 GMT</pubDate>
         </item>
