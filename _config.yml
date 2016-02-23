@@ -1,0 +1,28 @@
+name: Rubin Del Monte
+favicon: null
+layout_spectrum: 0.4102748818695545
+typography_spectrum: 0.9563731939997524
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6781632520724088
+  lightness: 0.3139500205870718
+  saturation: 0.9898604655172676
+  rhythmicContrast: 0.6696773949079216
+purpose: []
